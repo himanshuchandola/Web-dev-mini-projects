@@ -118,3 +118,26 @@
 | [iCoder](https://github.com/soma2000-lang/Web-dev-mini-projects/tree/iron/iCoder) |It is a simple and resonsive website made using bootstrap.
 | [Darkmode To Do List](https://github.com/Ayushparikh-code/Web-dev-mini-projects/tree/main/darkmode_todolist)              |This app allows you to make a list of events you want to do and you can strikeout the events completed.|
 | [Tabla](https://github.com/Ayushparikh-code/Web-dev-mini-projects/tree/main/tabla) | It is a webapp that plays tabla beat on clicked on the tabla or clicked d or t.
+| [QR Code Generator](https://github.com/Ayushparikh-code/Web-dev-mini-projects/tree/main/QR-CODE-Generator) | A simple web application which will generate a QR Code.
+| [Classifiers using JS](https://github.com/Ayushparikh-code/Web-dev-mini-projects/tree/main/Classifier-Using-JS) | It is a website which contains three different classifiers, built with the help of API.
+| [String Palindrome Checker](https://github.com/Ayushparikh-code/Web-dev-mini-projects/tree/main/String%20Palindrome%20Checker) | Checks if the entered word is a palindrome or not, and also checks the string length.
+| [2048 Game](https://github.com/Gyynnn/Web-dev-mini-projects/tree/2048game/2048%20Game) | A simple 2048 game on website.
+| [Movie Search App](https://github.com/Gyynnn/Web-dev-mini-projects/tree/main/Movie-Search-App) | Simple Movie Search App in HTML, CSS, and JavaScript using the APIs for fetching movies information.
+| [News App](https://github.com/Ayushparikh-code/Web-dev-mini-projects/tree/main/news-app)| This is a React app which fetches the recent news from an api and renders it on the DOM without reloading the page.
+| [Magic-Color-Changer](https://github.com/Ayushparikh-code/Web-dev-mini-projects/tree/main/Magic-Color-Changer)| This is a pure javascript project.
+|[Fetch API using react app](https://github.com/abhishektyagi2912/Web-dev-mini-projects/tree/main/Fetch%20API%20%20using%20react%20app)| That we add get user button to API calls to get user data and have a loader while API fetch the data .
+|[Product Landing Page](https://github.com/Ayushparikh-code/Web-dev-mini-projects/tree/saloni-15-project-1/Product%20Landing%20Page)| A beginner-friendly single-page product landing website built with HTML and CSS for understanding the concept of responsive websites using CSS Grids.
+|[VAT Calculator](https://github.com/Ayushparikh-code/Web-dev-mini-projects/tree/main/VAT%20Calculator)| It is a simpe calculator which calculates the Value Added Tax (VAT) on products or services 
+| [Loan Calculator](https://github.com/Ayushparikh-code/Web-dev-mini-projects/tree/main/Loan%20Calculator)| This is a simple loan calculator which calculates the Loan EMI (Equated Monthly Installment).
+|[My Online Meal](https://github.com/Ayushparikh-code/Web-dev-mini-projects/tree/main/My-Online-Meal)| It is a simple and responsive website.
+|[Good Vibes Form](https://github.com/Ayushparikh-code/Web-dev-mini-projects/tree/main/Good-Vibes-Form)| It is a simple and responsive form which can be used in any project.
+|[Survey Form](https://github.com/Ayushparikh-code/Web-dev-mini-projects/tree/main/Survey-Form)| It is a simple and responsive urvey-Form.
+|[React Pizza App](https://github.com/Ayushparikh-code/Web-dev-mini-projects/tree/main/react-tailwind-app)| It is a simple pizza react app using TailwindCSS.
+|[Digital White Board]()| It is a simple white board where user can write, draw, erase, undo, redo, insert image, open sticky notes and also download it.
+|[Lets Practice](https://github.com/Ayushparikh-code/Web-dev-mini-projects/tree/main/Lets%20practice)| This webapp is basically for kids to practice addition, substraction, multiplication and division.
+| [Age Calculator](https://github.com/Ayushparikh-code/Web-dev-mini-projects/tree/main/Live%20Clock) |It is a simple Javascript project which calculates our age in years.
+|[Digital & Analog Clock](https://github.com/Ayushparikh-code/Web-dev-mini-projects/tree/main/Clock)| It is a simple project built using Javascript which has two clocks, one is Digital Clock and another one is Analog Clock.
+| [Insta Clone](https://github.com/Ayushparikh-code/Web-dev-mini-projects/tree/main/Instagram-clone)                                   |It is a simple clone of instagram front page using react.
+|[Password Strength Meter](https://github.com/Ayushparikh-code/Web-dev-mini-projects/tree/main/Password%20Strength%20Meter)| Checks the strength of a password if it is strong, average or weak.
+|[lcm-hcf-calculator](https://github.com/Ayushparikh-code/Web-dev-mini-projects/tree/main/lcm-hcf-calculator)                                   |HCF and LCM calculator finds the highest common factor and lowest common multiple for the given numbers.
+|[Guitar](https://github.com/Ayushparikh-code/Web-dev-mini-projects/tree/main/Guitar)| A webapp that plays basic sounds of guitar
